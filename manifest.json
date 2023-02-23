@@ -1,14 +1,14 @@
 {
 "name": "Web Calculator",
 "short_name": "Online Calculator",
-"start_url": "/Calculator",
+"start_url": "/",
 "display": "standalone",
 "description": "A simple maths calculator",
 "lang": "en",
 "dir": "auto",
 "theme_color": "#000000",
 "background_color": "#000000",
-"orientation": "portait",
+"orientation": "any",
 "icons": [
     {
         "src": "favicon_io (1)/android-chrome-512x512.png",
