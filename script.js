@@ -29,9 +29,4 @@ themeToggleBtn.onclick = () => {
   isDark = !isDark;
 };
 
-(function () {
-  const themes = ['theme-dark-purple', 'theme-light-purple', 'theme-dark-blue', 'theme-light-blue'];
-  if (!themes.includes(localStorage.getItem('theme'))) {
-    setTheme('theme-dark-purple');
-  }
-})();
+
