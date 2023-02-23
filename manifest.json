@@ -1,7 +1,7 @@
 {
 "name": "Web Calculator",
 "short_name": "Online Calculator",
-"start_url": "/",
+"start_url": "/index.html",
 "display": "standalone",
 "description": "A simple maths calculator",
 "lang": "en",
